@@ -69,11 +69,3 @@
 </div>
 
 ###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/henricobirochi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=henricobirochi&count=5&unique=false" alt="https://spotify-recently-played-readme.vercel.app/api?user=a3c6zrtm66yhcopj0dpjbuwxa&count={count}"  />
-  </a>
-</div>
-
-###
