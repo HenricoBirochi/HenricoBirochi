@@ -60,19 +60,19 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/henricobirochi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=a3c6zrtm66yhcopj0dpjbuwxa&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:henrico.birochi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:henrico.birochi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://open.spotify.com/user/henricobirochi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=a3c6zrtm66yhcopj0dpjbuwxa&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
