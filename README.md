@@ -15,13 +15,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HenricoBirochi.HenricoBirochi&left_color=black&right_color=blueviolet"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h3 align="center">hey there 👋</h3>
 
 ###
 
@@ -37,7 +31,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
@@ -78,9 +72,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HenricoBirochi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=HenricoBirochi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenricoBirochi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=HenricoBirochi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HenricoBirochi.HenricoBirochi&left_color=black&right_color=blueviolet"  />
 </div>
 
 ###
