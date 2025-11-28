@@ -10,37 +10,37 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="4" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
 </div>
 
