@@ -13,35 +13,35 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="20" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="20" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="20" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="20" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="20" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="20" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="20" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="20" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="20" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="20" alt="arduino logo"  />
 </div>
 
 ###
