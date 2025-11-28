@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/adh1ni"  />
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
