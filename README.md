@@ -40,10 +40,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
 </div>
 
 ###
