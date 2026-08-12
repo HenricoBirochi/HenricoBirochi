@@ -81,8 +81,6 @@ open_to: ["Collaboration", "Freelance", "Job opportunities"]
 
 ###
 
-## 🕹️ Contribution Graph
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph-dark.svg">
