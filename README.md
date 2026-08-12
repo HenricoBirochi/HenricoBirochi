@@ -31,7 +31,7 @@ open_to: ["Collaboration", "Freelance", "Job opportunities"]
 
 ###
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -68,18 +68,15 @@ open_to: ["Collaboration", "Freelance", "Job opportunities"]
 
 ###
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=HenricoBirochi&hide_border=true&background=0d1117&border=0d1117&stroke=0077B5&ring=0077B5&fire=25D366&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=25D366&sideLabels=c9d1d9&dates=8b949e" alt="streak stats" />
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HenricoBirochi&show_icons=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=25D366&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="github stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoBirochi&layout=compact&langs_count=8&hide_border=true&title_color=0077B5&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="top languages" />
-</div>
-
 ###
+
+## Contribution Graph
 
 <div align="center">
   <picture>
@@ -91,7 +88,7 @@ open_to: ["Collaboration", "Freelance", "Job opportunities"]
 
 ###
 
-## 📫 Let's connect
+## Let's connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/" target="_blank">
