@@ -1,68 +1,117 @@
-<h2 align="center">Hi 👋! My name is Henrico Birochi and I'm a Full Stack Developer, I'm from São Bernardo do Campo, São Paulo, Brazil!</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:25D366&height=180&section=header&text=Henrico%20Birochi&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%" alt="header" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+%7C+Python+%7C+.NET;S%C3%A3o+Bernardo+do+Campo%2C+SP+%E2%80%94+Brazil" alt="typing" />
+  </a>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://komarev.com/ghpvc/?username=HenricoBirochi&label=Profile%20views&color=0077B5&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/HenricoBirochi?label=Followers&style=flat&color=0077B5" alt="followers" />
 </div>
 
 ###
+
+## 🧑‍💻 About me
+
+```yaml
+name: Henrico Birochi
+role: Full Stack Developer
+location: São Bernardo do Campo, São Paulo — Brazil
+languages: [Portuguese, English]
+focus: ["Backend APIs", "Cloud & Containers", "Web Applications"]
+currently_learning: ["System Design", "Cloud Architecture"]
+open_to: ["Collaboration", "Freelance", "Job opportunities"]
+```
+
+###
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,py,flask,django,cs,dotnet,cpp" height="45" alt="backend stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" height="45" alt="frontend stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite" height="45" alt="database stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" height="45" alt="devops stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Embedded</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="embedded stack" />
+    </td>
+  </tr>
+</table>
+
+###
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=HenricoBirochi&hide_border=true&background=0d1117&border=0d1117&stroke=0077B5&ring=0077B5&fire=25D366&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=25D366&sideLabels=c9d1d9&dates=8b949e" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HenricoBirochi&show_icons=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=25D366&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="github stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoBirochi&layout=compact&langs_count=8&hide_border=true&title_color=0077B5&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="top languages" />
+</div>
+
+###
+
+## 🕹️ Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+###
+
+## 📫 Let's connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="linkedin" />
   </a>
   <a href="mailto:henrico.birochi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="gmail" />
   </a>
   <a href="https://www.instagram.com/henricobirochi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="instagram" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=+55%20(11)%2095195-7540&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://wa.me/5511951957540" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" alt="whatsapp" />
+  </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:0077B5&height=120&section=footer" width="100%" alt="footer" />
+</div>
