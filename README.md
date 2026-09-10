@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:25D366&height=180&section=header&text=Henrico%20Birochi&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:25D366&height=180&section=header&text=Henrico%20Birochi&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descSize=18" width="100%" alt="header" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+%7C+Python+%7C+.NET;S%C3%A3o+Bernardo+do+Campo%2C+SP+%E2%80%94+Brazil" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Backend+Developer+%F0%9F%92%BB;Java+%7C+Spring+%7C+Python+%7C+.NET;S%C3%A3o+Bernardo+do+Campo%2C+SP+%E2%80%94+Brazil" alt="typing" />
   </a>
 </div>
 
