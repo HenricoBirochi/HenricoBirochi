@@ -21,7 +21,7 @@
 
 ```yaml
 name: Henrico Birochi
-role: Full Stack Developer
+role: Backend Developer
 location: São Bernardo do Campo, São Paulo — Brazil
 languages: [Portuguese, English]
 focus: ["Backend APIs", "Cloud & Containers", "Web Applications"]
