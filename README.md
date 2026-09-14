@@ -1,112 +1,106 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:25D366&height=180&section=header&text=Henrico%20Birochi&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descSize=18" width="100%" alt="header" />
+
+# Henrico Birochi
+
+**Java Backend Developer** · Spring Boot · REST APIs · Clean Architecture · **São Bernardo do Campo, SP — Brazil**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrico-birochi-a51717268/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henrico.birochi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511951957540)
+
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Backend+Developer+%F0%9F%92%BB;Java+%7C+Spring+%7C+Python+%7C+.NET;S%C3%A3o+Bernardo+do+Campo%2C+SP+%E2%80%94+Brazil" alt="typing" />
-  </a>
-</div>
+---
 
-###
+## About
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HenricoBirochi&label=Profile%20views&color=0077B5&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/HenricoBirochi?label=Followers&style=flat&color=0077B5" alt="followers" />
-</div>
+Backend developer focused on building **REST APIs and scalable applications with Java and Spring Boot**.
 
-###
+I study software architecture and apply concepts such as **Clean Architecture, SOLID, separation of concerns and dependency inversion** in real projects — the goal being applications that are well-structured, maintainable and easy to evolve.
 
-## 🧑‍💻 About me
+Computer Engineering student. Portuguese (native) and English.
 
-```yaml
-name: Henrico Birochi
-role: Backend Developer
-location: São Bernardo do Campo, São Paulo — Brazil
-languages: [Portuguese, English]
-focus: ["Backend APIs", "Cloud & Containers", "Web Applications"]
-currently_learning: ["System Design", "Cloud Architecture"]
-open_to: ["Collaboration", "Freelance", "Job opportunities"]
+**Open to:** junior Java backend roles, collaboration and freelance projects.
+
+---
+
+## Featured Project
+
+### Tasks API
+
+<a href="https://github.com/HenricoBirochi/Tasks-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenricoBirochi&repo=Tasks-API&theme=github_dark&hide_border=true" alt="Tasks API" />
+</a>
+
+Backend API built to deepen my knowledge of Java backend development and software architecture. Structured following **Clean Architecture**, keeping business rules independent from frameworks and external infrastructure.
+
+**Practiced in this project:** Clean Architecture · SOLID · REST API design · dependency inversion · separation of concerns · domain-driven business rules · persistence abstraction
+
+```text
+src/
+├── domain          # entities and business rules
+├── application     # use cases
+├── infrastructure  # persistence, frameworks, external services
+└── presentation    # REST controllers
 ```
 
-###
+> Currently under active development.
+
+---
 
 ## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,spring,py,flask,django,cs,dotnet,cpp" height="45" alt="backend stack" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" height="45" alt="frontend stack" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite" height="45" alt="database stack" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" height="45" alt="devops stack" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Embedded</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="embedded stack" />
-    </td>
-  </tr>
-</table>
+**Core**
 
-###
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Also work with**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Currently Learning
+
+Roadmap focused on becoming a stronger Java backend developer:
+
+| Area | Topics |
+|---|---|
+| **Testing** | JUnit · Mockito · unit and integration tests |
+| **Security** | Spring Security · JWT · authentication and authorization |
+| **Architecture** | Design patterns · system design |
+| **Cloud** | AWS · containerized deployment |
+
+---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=HenricoBirochi&hide_border=true&background=0d1117&border=0d1117&stroke=0077B5&ring=0077B5&fire=25D366&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=25D366&sideLabels=c9d1d9&dates=8b949e" alt="streak stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenricoBirochi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoBirochi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="top languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
 
-###
-
-## Contribution Graph
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenricoBirochi/HenricoBirochi/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-###
-
-## Let's connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="linkedin" />
-  </a>
-  <a href="mailto:henrico.birochi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="gmail" />
-  </a>
-  <a href="https://www.instagram.com/henricobirochi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="instagram" />
-  </a>
-  <a href="https://wa.me/5511951957540" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" alt="whatsapp" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:0077B5&height=120&section=footer" width="100%" alt="footer" />
+  <sub>Looking for opportunities to grow as a Java backend developer — reach me on <a href="https://www.linkedin.com/in/henrico-birochi-a51717268/">LinkedIn</a>, by <a href="mailto:henrico.birochi@gmail.com">email</a> or on <a href="https://wa.me/5511951957540">WhatsApp</a>.</sub>
 </div>
