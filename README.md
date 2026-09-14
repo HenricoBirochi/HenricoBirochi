@@ -71,19 +71,6 @@ src/
 
 ---
 
-## Currently Learning
-
-Roadmap focused on becoming a stronger Java backend developer:
-
-| Area | Topics |
-|---|---|
-| **Testing** | JUnit · Mockito · unit and integration tests |
-| **Security** | Spring Security · JWT · authentication and authorization |
-| **Architecture** | Design patterns · system design |
-| **Cloud** | AWS · containerized deployment |
-
----
-
 ## GitHub Stats
 
 <div align="center">
