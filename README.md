@@ -7,7 +7,7 @@
   <img alt="badge" src="https://shieldcn.dev/badge/Spring.svg?logo=spring&amp;color=129e46" />
   <img alt="badge" src="https://shieldcn.dev/badge/Git.svg?logo=git&amp;color=f97316" />
   <img alt="badge" src="https://shieldcn.dev/badge/Docker.svg?logo=docker&amp;color=3b82f6" />
-  <img alt="badge" src="https://shieldcn.dev/badge/.svg?logo=ri%3AFaAws&amp;color=000000" />
+  <img alt="badge" src="https://shieldcn.dev/badge/AWS.svg?logo=ri%3AFaAws&amp;color=000000" />
   <img alt="badge" src="https://shieldcn.dev/badge/PostgreSql.svg?logo=postgresql&amp;color=6a9ae8" />
   <img alt="badge" src="https://shieldcn.dev/badge/Github.svg?logo=github" />
 </p>
